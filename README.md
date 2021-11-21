@@ -1,12 +1,12 @@
 # drupal-modules-custom
 
-Example custom Drupal 9 modules for [multipass-cloud-init-drupal](https://github.com/agcraggs/multipass-cloud-init-drupal). To be placed into `<source>/multipass/drupal01/custom` on the host.
+Example custom Drupal 9 modules for [multipass-cloud-init-drupal](https://github.com/agcraggs/multipass-cloud-init-drupal). When following suggested Multipass host shell mount commands post installation `drupal-modules-custom` to be be placed into `<source>/multipass/drupal01/custom` on the host.
 
 ## Drupal 9 Examples
 
 `/drupalup_simple_form` updated for Drupal 9. Follow the YouTube videos.  
-Path on host: `<source>/multipass/drupal01/custom``/drupalup_simple_form`  
-Path on instance: `/var/www/drupal01/web/modules/custom``/drupalup_simple_form`  
+Path on host: `<source>/multipass/drupal01/custom/drupalup_simple_form`  
+Path on instance: `/var/www/drupal01/web/modules/custom/drupalup_simple_form`  
 [drupalUP YouTube video: Drupal 8 Programatically created custom form](https://www.youtube.com/watch?v=JjUYeKqB-gw)  
 [drupalUP YouTube video: Creating an AJAX Form into our Drupal 8 custom module programmatically](https://www.youtube.com/watch?v=Mc1oucR4Vak)
 
